@@ -1,0 +1,8 @@
+dfu_mmc.c:23:12:mmc_block_op	48	static
+dfu_mmc.c:109:12:mmc_file_op	160	static
+dfu_mmc.c:278:6:dfu_free_entity_mmc	8	static
+dfu_mmc.c:175:5:dfu_write_medium_mmc	32	static
+dfu_mmc.c:196:5:dfu_flush_medium_mmc	8	static
+dfu_mmc.c:212:5:dfu_get_medium_size_mmc	8	static
+dfu_mmc.c:257:5:dfu_read_medium_mmc	48	static
+dfu_mmc.c:299:5:dfu_fill_entity_mmc	176	static

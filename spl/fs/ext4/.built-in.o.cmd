@@ -1,0 +1,1 @@
+cmd_spl/fs/ext4/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o spl/fs/ext4/built-in.o spl/fs/ext4/ext4fs.o spl/fs/ext4/ext4_common.o spl/fs/ext4/dev.o spl/fs/ext4/ext4_write.o spl/fs/ext4/ext4_journal.o spl/fs/ext4/crc16.o 

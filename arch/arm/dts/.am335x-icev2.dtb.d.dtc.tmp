@@ -1,0 +1,1 @@
+arch/arm/dts/am335x-icev2.dtb: arch/arm/dts/.am335x-icev2.dtb.dts.tmp arch/arm/dts/am33xx-clocks.dtsi

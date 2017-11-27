@@ -1,0 +1,3 @@
+omap-timer.c:53:12:omap_timer_get_count	8	static
+omap-timer.c:78:12:omap_timer_ofdata_to_platdata	16	static
+omap-timer.c:62:12:omap_timer_probe	16	static

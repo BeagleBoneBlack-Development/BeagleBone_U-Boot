@@ -1,0 +1,2 @@
+clk_synthesizer.c:49:12:clk_synthesizer_reg_write	32	static
+clk_synthesizer.c:73:5:setup_clock_synthesizer	32	static

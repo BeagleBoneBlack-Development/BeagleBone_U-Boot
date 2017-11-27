@@ -1,0 +1,1 @@
+cmd_u-boot-nodtb.bin := /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-objcopy --gap-fill=0xff  -j .text -j .secure_text -j .secure_data -j .rodata -j .hash -j .data -j .got -j .got.plt -j .u_boot_list -j .rel.dyn -j .dtb.init.rodata -j .efi_runtime -j .efi_runtime_rel -O binary  u-boot u-boot-nodtb.bin

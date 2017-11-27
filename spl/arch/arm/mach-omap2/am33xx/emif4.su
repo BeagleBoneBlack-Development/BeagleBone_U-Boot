@@ -1,0 +1,2 @@
+emif4.c:67:13:ddr_pll_config	0	static
+emif4.c:71:6:config_ddr	24	static

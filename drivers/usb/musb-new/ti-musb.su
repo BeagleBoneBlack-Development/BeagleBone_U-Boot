@@ -1,0 +1,5 @@
+ti-musb.c:68:13:ti_musb_set_phy_power	8	static
+ti-musb.c:177:12:ti_musb_host_ofdata_to_platdata	112	static
+ti-musb.c:168:12:ti_musb_host_remove	8	static
+ti-musb.c:145:12:ti_musb_host_probe	16	static
+ti-musb.c:206:12:ti_musb_wrapper_bind	48	static

@@ -1,0 +1,6 @@
+clock_am33xx.c:130:34:get_dpll_mpu_params	0	static
+clock_am33xx.c:135:27:get_dpll_core_params	8	static
+clock_am33xx.c:142:27:get_dpll_per_params	8	static
+clock_am33xx.c:149:6:setup_clocks_for_console	0	static
+clock_am33xx.c:185:6:enable_basic_clocks	152	static
+clock_am33xx.c:237:6:set_mpu_spreadspectrum	24	static

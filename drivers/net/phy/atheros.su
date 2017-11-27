@@ -1,0 +1,5 @@
+phy.h:209:19:phy_write.constprop	24	static
+atheros.c:29:12:ar8031_config	8	static
+atheros.c:20:12:ar8021_config	8	static
+atheros.c:55:12:ar8035_config	16	static
+atheros.c:123:5:phy_atheros_init	8	static

@@ -1,0 +1,6 @@
+.am335x-boneblack.dtb.pre.o: arch/arm/dts/.am335x-boneblack.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h \
+ arch/arm/dts/am33xx.dtsi arch/arm/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/dts/include/dt-bindings/pinctrl/am33xx.h \
+ arch/arm/dts/include/dt-bindings/pinctrl/omap.h \
+ arch/arm/dts/skeleton.dtsi arch/arm/dts/am335x-bone-common.dtsi

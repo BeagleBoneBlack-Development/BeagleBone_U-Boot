@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/mmc/built-in.o drivers/mmc/mmc.o drivers/mmc/mmc-uclass.o drivers/mmc/mmc_legacy.o drivers/mmc/mmc_write.o drivers/mmc/omap_hsmmc.o 

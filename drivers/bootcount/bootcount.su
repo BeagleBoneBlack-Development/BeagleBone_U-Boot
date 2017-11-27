@@ -1,0 +1,2 @@
+bootcount.c:27:13:bootcount_store	0	static
+bootcount.c:39:14:bootcount_load	0	static

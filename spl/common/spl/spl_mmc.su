@@ -1,0 +1,3 @@
+spl_mmc.c:47:14:h_spl_load_read	16	static
+spl_mmc.c:56:5:mmc_load_image_raw_sector	48	static
+spl_mmc.c:284:5:spl_mmc_load_image	32	static

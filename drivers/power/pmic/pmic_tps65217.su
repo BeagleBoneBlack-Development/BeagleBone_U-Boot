@@ -1,0 +1,3 @@
+pmic_tps65217.c:18:5:tps65217_reg_read	16	static
+pmic_tps65217.c:38:5:tps65217_reg_write	40	static
+pmic_tps65217.c:91:5:tps65217_voltage_update	8	static

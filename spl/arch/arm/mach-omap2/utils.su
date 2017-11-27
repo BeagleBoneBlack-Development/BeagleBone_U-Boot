@@ -1,0 +1,7 @@
+utils.c:10:13:do_cancel_out	24	static
+utils.c:141:6:cancel_out	16	static
+utils.c:160:13:omap_die_id	0	static
+utils.c:165:6:omap_die_id_serial	56	static
+utils.c:180:6:omap_die_id_get_board_serial	8	static
+utils.c:198:6:omap_die_id_usbethaddr	32	static
+utils.c:221:6:omap_die_id_display	32	static

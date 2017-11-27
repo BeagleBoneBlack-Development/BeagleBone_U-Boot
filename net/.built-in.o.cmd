@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o net/built-in.o net/checksum.o net/arp.o net/bootp.o net/eth-uclass.o net/eth_common.o net/net.o net/nfs.o net/ping.o net/tftp.o 

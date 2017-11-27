@@ -1,0 +1,5 @@
+board.c:568:13:request_and_set_gpio	16	static
+board.c:71:6:do_board_detect	8	static
+board.c:613:5:board_init	16	static
+board.c:700:5:board_late_init	16	static
+board.c:926:5:board_fit_config_name_match	8	static

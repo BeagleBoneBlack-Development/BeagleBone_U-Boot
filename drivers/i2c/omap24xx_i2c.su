@@ -1,0 +1,9 @@
+omap24xx_i2c.c:201:12:__omap24_i2c_setspeed	32	static
+omap24xx_i2c.c:869:12:omap_i2c_set_bus_speed	8	static
+omap24xx_i2c.c:119:12:wait_for_bb	16	static
+omap24xx_i2c.c:149:12:wait_for_event	24	static
+omap24xx_i2c.c:182:13:flush_fifo	8	static
+omap24xx_i2c.c:878:12:omap_i2c_probe_chip	24	static
+omap24xx_i2c.c:895:12:omap_i2c_ofdata_to_platdata	16	static
+omap24xx_i2c.c:843:12:omap_i2c_xfer	40	static
+omap24xx_i2c.c:886:12:omap_i2c_probe	40	static

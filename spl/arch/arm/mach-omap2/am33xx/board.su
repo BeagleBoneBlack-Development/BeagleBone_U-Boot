@@ -1,0 +1,12 @@
+board.c:180:13:am33xx_otg0_set_phy_power	0	static
+board.c:199:13:am33xx_otg1_set_phy_power	0	static
+board.c:43:5:dram_init	8	static
+board.c:56:5:dram_init_banksize	0	static
+board.c:138:5:cpu_mmc_init	16	static
+board.c:217:5:arch_misc_init	8	static
+board.c:260:5:board_early_init_f	8	static
+board.c:272:13:am33xx_spl_board_init	0	static
+board.c:324:6:s_init	0	static
+board.c:328:6:early_system_init	8	static
+board.c:363:6:board_init_f	8	static
+board.c:378:5:arch_cpu_init_dm	8	static

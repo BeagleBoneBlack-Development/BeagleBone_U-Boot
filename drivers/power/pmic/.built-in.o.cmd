@@ -1,0 +1,1 @@
+cmd_drivers/power/pmic/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/power/pmic/built-in.o drivers/power/pmic/pmic_tps65217.o drivers/power/pmic/pmic_tps65910.o 

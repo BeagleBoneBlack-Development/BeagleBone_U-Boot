@@ -1,0 +1,9 @@
+spi_flash.c:432:5:spi_flash_read_common	32	static
+spi_flash.c:33:12:read_sr	24	static
+spi_flash.c:274:5:spi_flash_write_common	48	static
+spi_flash.c:315:5:spi_flash_cmd_erase_ops	48	static
+spi_flash.c:370:5:spi_flash_cmd_write_ops	56	static
+spi_flash.c:459:13:spi_flash_copy_mmap	0	static
+spi_flash.c:468:5:spi_flash_cmd_read_ops	48	static
+spi_flash.c:950:5:spi_flash_decode_fdt	0	static
+spi_flash.c:973:5:spi_flash_scan	48	static

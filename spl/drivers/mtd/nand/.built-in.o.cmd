@@ -1,0 +1,1 @@
+cmd_spl/drivers/mtd/nand/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o spl/drivers/mtd/nand/built-in.o spl/drivers/mtd/nand/am335x_spl_bch.o spl/drivers/mtd/nand/nand_ecc.o spl/drivers/mtd/nand/nand_base.o spl/drivers/mtd/nand/omap_gpmc.o spl/drivers/mtd/nand/omap_elm.o 

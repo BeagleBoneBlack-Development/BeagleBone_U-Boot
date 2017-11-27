@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/omap3_spi.o 

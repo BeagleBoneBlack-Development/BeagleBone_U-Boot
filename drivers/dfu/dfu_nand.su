@@ -1,0 +1,7 @@
+dfu_nand.c:117:5:dfu_get_medium_size_nand	0	static
+dfu_nand.c:180:14:dfu_polltimeout_nand	0	static
+dfu_nand.c:22:12:nand_block_op	112	static
+dfu_nand.c:100:12:dfu_write_medium_nand	16	static
+dfu_nand.c:124:12:dfu_read_medium_nand	16	static
+dfu_nand.c:141:12:dfu_flush_medium_nand	72	static
+dfu_nand.c:192:5:dfu_fill_entity_nand	88	static

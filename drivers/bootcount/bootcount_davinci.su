@@ -1,0 +1,2 @@
+bootcount_davinci.c:15:6:bootcount_store	0	static
+bootcount_davinci.c:31:7:bootcount_load	0	static

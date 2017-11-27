@@ -1,0 +1,1 @@
+arch/arm/dts/am335x-boneblack.dtb: arch/arm/dts/.am335x-boneblack.dtb.dts.tmp arch/arm/dts/am33xx-clocks.dtsi arch/arm/dts/tps65217.dtsi

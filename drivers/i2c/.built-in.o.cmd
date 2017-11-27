@@ -1,0 +1,1 @@
+cmd_drivers/i2c/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/i2c/built-in.o drivers/i2c/i2c-uclass.o drivers/i2c/i2c-uclass-compat.o drivers/i2c/omap24xx_i2c.o 

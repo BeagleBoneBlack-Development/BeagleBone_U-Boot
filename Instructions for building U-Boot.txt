@@ -1,0 +1,6 @@
+# Instructions for building U-Boot #
+
+1. export CC=`pwd`/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-
+2. make ARCH=arm CROSS_COMPILE=${CC} distclean
+3. make ARCH=arm CROSS_COMPILE=${CC} am335x_evm_defconfig
+4. make ARCH=arm CROSS_COMPILE=${CC} -j4

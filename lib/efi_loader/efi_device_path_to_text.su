@@ -1,0 +1,4 @@
+efi_device_path_to_text.c:166:18:efi_convert_device_node_to_text.isra.1	568	static
+efi_device_path_to_text.c:234:25:efi_convert_device_path_to_text	8	static
+efi_device_path_to_text.c:218:25:efi_convert_device_node_to_text_ext	8	static
+efi_device_path_to_text.c:212:11:efi_dp_str	0	static

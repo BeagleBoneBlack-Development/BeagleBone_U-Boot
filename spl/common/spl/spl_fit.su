@@ -1,0 +1,3 @@
+spl_fit.c:30:12:spl_fit_get_image_node	32	static
+spl_fit.c:131:12:spl_load_fit_image	72	static
+spl_fit.c:221:5:spl_load_simple_fit	88	static

@@ -1,0 +1,9 @@
+mmc-uclass.c:40:5:dm_mmc_set_ios	0	static
+mmc-uclass.c:49:5:mmc_set_ios	0	static
+mmc-uclass.c:54:5:dm_mmc_get_wp	0	static
+mmc-uclass.c:63:5:mmc_getwp	0	static
+mmc-uclass.c:68:5:dm_mmc_get_cd	0	static
+mmc-uclass.c:77:5:mmc_getcd	0	static
+mmc-uclass.c:82:13:mmc_get_mmc_dev	8	static
+mmc-uclass.c:18:5:dm_mmc_send_cmd	16	static
+mmc-uclass.c:35:5:mmc_send_cmd	0	static

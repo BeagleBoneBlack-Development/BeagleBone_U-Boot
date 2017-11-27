@@ -1,0 +1,3 @@
+omap_wdt.c:52:6:hw_watchdog_reset	0	static
+omap_wdt.c:84:6:hw_watchdog_disable	0	static
+omap_wdt.c:99:6:hw_watchdog_init	8	static

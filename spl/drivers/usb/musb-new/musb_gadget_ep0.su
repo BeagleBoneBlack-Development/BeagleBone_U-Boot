@@ -1,0 +1,7 @@
+musb_gadget_ep0.c:903:12:musb_g_ep0_disable	0	static
+musb_gadget_ep0.c:991:12:musb_g_ep0_dequeue	0	static
+musb_gadget_ep0.c:997:12:musb_g_ep0_halt	0	static
+musb_gadget_ep0.c:897:1:musb_g_ep0_enable	0	static
+musb_gadget_ep0.c:522:13:ep0_txstate	24	static
+musb_gadget_ep0.c:910:1:musb_g_ep0_queue	24	static
+musb_gadget_ep0.c:646:13:musb_g_ep0_irq	48	static

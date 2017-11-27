@@ -1,0 +1,1 @@
+cmd_drivers/crypto/rsa_mod_exp/built-in.o :=  /home/anil/EmbeddedLinux_Tools/BBB_Compiler/gcc-linaro-6.4.1-2017.08-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/crypto/rsa_mod_exp/built-in.o drivers/crypto/rsa_mod_exp/mod_exp_uclass.o drivers/crypto/rsa_mod_exp/mod_exp_sw.o 

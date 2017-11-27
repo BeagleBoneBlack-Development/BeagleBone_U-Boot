@@ -1,0 +1,3 @@
+cpsw-common.c:59:12:cpsw_am33xx_cm_get_macid	32	static
+cpsw-common.c:19:12:davinci_emac_3517_get_macid	32	static
+cpsw-common.c:99:5:ti_cm_get_macid	16	static

@@ -1,0 +1,3 @@
+spl_fat.c:42:14:spl_fit_read	40	static
+spl_fat.c:56:5:spl_load_image_fat	48	static
+spl_fat.c:105:5:spl_load_image_fat_os	24	static
